@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: pllucian-playground
-        image: pllucian/playground:v1
+        image: pllucian/playground:v2
         ports:
         - containerPort: 8888
 
